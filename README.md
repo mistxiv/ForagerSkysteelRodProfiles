@@ -1,8 +1,10 @@
 # Forager Skysteel Rod Profiles
- 
+
+## Installation
+
 Copy the contents of the `profiles` folder to `C:\MINIONAPP\Bots\FFXIVMinion64\LuaMods\Forager\profiles` and reload LUA.
 
-# Notes
+## Usage
 
 * These profiles just do the fishing.  Doing the quests coming prepared is up to you.
 * These were tested in full Landsaint's gear with plenty of Hi-Cordials and Peppered Popotoes for more GP.
