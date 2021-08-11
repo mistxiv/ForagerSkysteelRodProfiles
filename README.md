@@ -6,7 +6,7 @@ Copy the contents of the `profiles` folder to `C:\MINIONAPP\Bots\FFXIVMinion64\L
 
 ## Usage
 
-* These profiles just do the fishing.  Doing the quests coming prepared is up to you.
+* These profiles just do the fishing.  Doing the quests and coming prepared is up to you.
 * These were tested in full Landsaint's gear with plenty of Hi-Cordials and Peppered Popotoes for more GP.
 * Buy plenty of bait.  You'll probably go through up to 2000 Signature Skyball.  Forager does this for you, but you should buy in bulk to save trips instead.
 * Forager helpfully equips the appropriate fishing rod when it's required for a catch.  Make sure to unequip it in order to turn in quests.
