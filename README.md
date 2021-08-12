@@ -14,6 +14,6 @@ Copy the contents of the `profiles` folder to `C:\MINIONAPP\Bots\FFXIVMinion64\L
 * `Skysteel FSH 1+2` will fish 40 HQ Thinker's Coral and 60 HQ Dragonspine.  Both of these steps can be done at the same time.  Ogre Horn Snail are surface slapped.
 * `Skysteel FSH3` will fish 60 HQ Petal Shell (Quest "Ever Skyward")
 * `Skysteel FSH4` will fish 70 HQ Allagan Hunter (Quest "The Tools of Tomorrow")
-* `Skysteel FSH5` will fish 100 Flintstrike and 100 Pickled Pom.  Of course your inventory can't hold this many, so tick off "skip" in Forager for the one you've completed and make sure you have enough free inventory slots.  You need 200 of the end product here, and the quality stages yield 7-2-1, so 100 ought to cover pretty bad luck.  Feel free to stop early.
+* `Skysteel FSH5` will fish 100 Flintstrike and 100 Pickled Pom (Quest "The Pinnacle of Possibility").  Of course your inventory can't hold this many, so tick off "skip" in Forager for the one you've completed and make sure you have enough free inventory slots.  You need 200 of the end product here, and the quality stages yield 7-2-1, so 100 ought to cover pretty bad luck.  Feel free to stop early.
 
 Congrats on your purple rod. 🍆🎣
